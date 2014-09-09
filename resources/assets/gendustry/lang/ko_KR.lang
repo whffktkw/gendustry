@@ -43,7 +43,7 @@ tile.gendustry.protein.name=단백질
 
 # ==== FLUID CONTAINERS ====
 
-item.gendustry.mutagen.bucket.name=뮤타젠동이
+item.gendustry.mutagen.bucket.name=뮤타젠 양동이
 item.gendustry.mutagen.can.name=뮤타젠 캔
 item.gendustry.liquiddna.bucket.name=액체 DNA 양동이
 item.gendustry.liquiddna.can.name=액체 DNA 캔
